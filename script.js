@@ -1,1 +1,1 @@
-document.querySelector(".text").innerHTML = document.querySelector(".title").innerHTML;
+document.querySelector("h1").innerHTML = document.title;
